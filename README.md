@@ -2,7 +2,7 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca4-a5f7-2c4113db07de.gif" width="80" alt="Developer GIF" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=const+name+%3D+%22Madhusudan+Badgujar%22%3B;console.log(%22Software+Developer+%7C+Problem+Solver%22)%3B;await+buildAmazingThings()%3B" alt="Animated Greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=const+name+%3D+%22Madhusudan+Badgujar[...]
 
   <p align="center">
     <b>Associate Engineer | Full-Stack Developer | Tech Enthusiast</b>
@@ -38,7 +38,7 @@
 
 **Languages:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=cpython&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
@@ -114,11 +114,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF&icon_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF&icon_col[...]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan023&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhusudan023&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF006E&area=true&border_color=30363D)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhusudan023&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF006E&area=true&border_color=3[...]
 
 </div>
 
