@@ -133,13 +133,19 @@
 | **[Plant Diseases Prediction](https://github.com/Madhusudan023/Plant_Diseases_Prediction)** | Machine learning model for agricultural disease detection and classification. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-5C5C5C?style=flat-square&logo=scikitlearn&logoColor=white) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/Plant_Diseases_Prediction) |
 | **[Mini Projects JavaScript](https://github.com/Madhusudan023/Mini_Projects_js)** | Collection of interactive JavaScript projects demonstrating core web development concepts. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/Mini_Projects_js) |
 | **[My Portfolio](https://github.com/Madhusudan023/MyPortfolio_)** | Personal portfolio website showcasing skills, projects, and professional background. | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/MyPortfolio_) |
-### 📊 `system_telemetry`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&theme=dark&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF&border_color=58A6FF)
+### System Telemetry
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan023&layout=compact&theme=dark&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF&border_color=58A6FF)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF&icon_color=58A6FF" alt="Madhusudan's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan023&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF" alt="Top Languages" />
+</div>
 
----
+<br />
+
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhusudan023&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=77909c" alt="GitHub Streak" />
+</div>
 
 ### 📡 `ping_me`
 
