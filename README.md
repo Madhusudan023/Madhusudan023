@@ -20,7 +20,7 @@
 {
   "developer": "Madhusudan Badgujar",
   "current_role": "Associate Engineer @ Virtusa",
-  "education": "B.Tech in Computer Science",
+  "education": "B.E in Computer Science",
   "focus": [
     "Full-Stack Web Development",
     "RESTful API Design",
