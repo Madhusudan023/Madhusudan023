@@ -137,8 +137,8 @@
 ### System Telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF&icon_color=58A6FF" alt="Madhusudan's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan023&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF&icon_color=58A6FF&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan023&layout=compact&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br />
