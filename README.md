@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%3E_Hello%2C+I'm+Madhusudan+Badgujar;%3E_Associate+Engineer+%40+Virtusa;%3E_Full-Stack+Developer+%7C+Problem+Solver;%3E_Building+Scalable+Digital+Experiences" alt="Animated Typing Header" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%3E_Hello+World%2C+I'm+Madhusudan+Badgujar;%3E_Associate+Engineer+%40+Virtusa;%3E_Full-Stack+Developer+%7C+Problem+Solver;%3E_Building+Scalable+Digital+Experiences..." alt="Animated Typing Header" />
 
   <p align="center">
     <b>Architecting elegant solutions from database to deployment.</b>
