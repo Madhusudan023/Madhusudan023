@@ -22,7 +22,7 @@
   "current_role": "Associate Engineer @ Virtusa",
   "education": "B.E in Computer Science",
   "focus": [
-    "Full-Stack Web Development",
+    "Full-Stack Java Development",
     "RESTful API Design",
     "Microservices Architecture",
     "Problem Solving & Optimization"
