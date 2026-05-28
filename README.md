@@ -58,15 +58,33 @@
 }
 ```
 ---
----
-###  `experience.sh`
+### `./experience.sh`
 
-> **Associate Engineer** | *Virtusa* 
-> * Developing and maintaining scalable enterprise-grade applications.
-> * Collaborating with cross-functional teams to implement new features using modern full-stack technologies.
-> * Writing clean, testable code and participating in rigorous code reviews.
+> **Associate Engineer** | *Virtusa* > * **Scope:** Developing and maintaining scalable enterprise-grade applications.
+> * **Collaboration:** Working seamlessly with cross-functional teams to implement new features using modern full-stack technologies.
+> * **Code Quality:** Writing clean, testable code and actively participating in rigorous peer code reviews to ensure architectural integrity.
 
----
+<br />
+
+> **Java Full Stack Trainee** | *Revature*
+> * **Scope:** Underwent intensive, hands-on training in the complete enterprise Java ecosystem.
+> * **Development:** Architected and deployed robust full-stack applications utilizing Spring Boot, React, and RESTful API principles.
+> * **Database Management:** Handled data persistence and schema design using relational databases and ORM frameworks.
+
+<br />
+
+> **Java Trainee** | *FUEL*
+> * **Scope:** Solidified core foundational knowledge in Java, Object-Oriented Programming (OOP), and backend logic implementation.
+> * **Optimization:** Engaged in algorithmic problem-solving and memory-efficient coding practices.
+> * **Implementation:** Built highly functional backend modules and participated in structured software development life cycles.
+
+<br />
+
+> **Web Development Intern** | *Cravita Private Limited*
+> * **Scope:** Assisted in the end-to-end development of interactive, responsive web applications.
+> * **Frontend Engineering:** Translated UI/UX design wireframes into actual code using HTML5, CSS3, and modern JavaScript.
+> * **Testing & Debugging:** Collaborated closely with senior developers to troubleshoot rendering issues and optimize web page load times.
+
 
 ### 📂 `technical-arsenal/`
 
