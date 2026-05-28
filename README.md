@@ -60,7 +60,8 @@
 ---
 ### `./experience.sh`
 
-> **Associate Engineer** | *Virtusa* **Scope:** Developing and maintaining scalable enterprise-grade applications.
+> **Associate Engineer** | *Virtusa* 
+> * **Scope:** Developing and maintaining scalable enterprise-grade applications.
 > * **Collaboration:** Working seamlessly with cross-functional teams to implement new features using modern full-stack technologies.
 > * **Code Quality:** Writing clean, testable code and actively participating in rigorous peer code reviews to ensure architectural integrity.
 
