@@ -14,45 +14,48 @@
 
 ---
 
-# Madhusudan Badgujar
+### `whoami.json`
 
-**Associate Engineer at Virtusa** | **B.E. in Computer Science**
-
-> "Write code that humans can read and machines can execute efficiently."
-
----
-
-## Profile
-
-I am a dedicated software engineer with a strong foundation in computer science and a focus on building scalable, high-performance applications. Currently, I apply my expertise at Virtusa, where I specialize in enterprise-level Java development and modern software architecture.
-
-## Core Competencies
-
-* **Full-Stack Java Development**
-    Developing robust backend logic and integrating it seamlessly with modern frontend technologies.
-* **RESTful API Design**
-    Crafting clean, secure, and intuitive interfaces for seamless system-to-system communication.
-* **Microservices Architecture**
-    Designing decoupled, easily maintainable, and highly available distributed systems.
-* **Problem Solving & Optimization**
-    Identifying algorithmic bottlenecks and delivering highly efficient, optimized solutions.
-
----
-
-## Education
-
-**Bachelor of Engineering (B.E.) in Computer Science**
-*A solid academic foundation driving practical, optimized engineering solutions.*
-
----
-
-## Get in Touch
-
-I am always open to discussing system architecture, backend optimization, and innovative engineering challenges. 
-
-[LinkedIn](https://www.linkedin.com/in/madhusudan-badgujar/) | [GitHub](https://github.com/Madhusudan023) | [Email](mailto:madhusudanbadgujar260@gmail.com)
-
----
+```json
+{
+ {
+  "name": "Madhusudan Badgujar",
+  "title": "Associate Engineer at Virtusa",
+  "degree": "B.E. in Computer Science",
+  "philosophy": "Write code that humans can read and machines can execute efficiently.",
+  "profile": "I am a dedicated software engineer with a strong foundation in computer science and a focus on building scalable, high-performance applications. Currently, I apply my expertise at Virtusa, where I specialize in enterprise-level Java development and modern software architecture.",
+  "core_competencies": [
+    {
+      "skill": "Full-Stack Java Development",
+      "description": "Developing robust backend logic and integrating it seamlessly with modern frontend technologies."
+    },
+    {
+      "skill": "RESTful API Design",
+      "description": "Crafting clean, secure, and intuitive interfaces for seamless system-to-system communication."
+    },
+    {
+      "skill": "Microservices Architecture",
+      "description": "Designing decoupled, easily maintainable, and highly available distributed systems."
+    },
+    {
+      "skill": "Problem Solving & Optimization",
+      "description": "Identifying algorithmic bottlenecks and delivering highly efficient, optimized solutions."
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Engineering (B.E.) in Computer Science",
+    "description": "A solid academic foundation driving practical, optimized engineering solutions."
+  },
+  "contact": {
+    "message": "I am always open to discussing system architecture, backend optimization, and innovative engineering challenges.",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/madhusudan-badgujar/",
+      "GitHub": "https://github.com/Madhusudan023",
+      "Email": "mailto:madhusudanbadgujar260@gmail.com"
+    }
+  }
+}
+}
 
 ### 💼 `experience.sh`
 
