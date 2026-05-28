@@ -157,7 +157,7 @@
 
 | GitHub Overview | Language Arsenal |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan023&layout=compact&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF" alt="Top Languages" /> |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF&icon_color=58A6FF) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusudan023&layout=compact&hide_border=true&bg_color=0D1117&text_color=77909c&title_color=58A6FF) |
 
 <br />
 
