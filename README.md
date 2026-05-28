@@ -68,41 +68,61 @@
 
 ---
 
-### Technical Arsenal
+### 📂 `technical-arsenal/`
 
-**The Java Ecosystem (Enterprise Backend)**
-* **Core Language:** Java
-* **Frameworks:** Spring Boot, Hibernate
-* **Architecture:** Microservices Architecture
-* **Build Tools:** Maven
-
-**The MERN Stack (Full-Stack JavaScript)**
-* **Frontend UI:** React.js
-* **Backend Runtime:** Node.js
-* **Web Framework:** Express.js
-* **Database:** MongoDB
-* **Core Language:** JavaScript (ES6+)
-
-**The Python Ecosystem (Backend & Scripting)**
-* **Core Language:** Python
-* **Web Framework:** Django
-
-**Frontend Web Technologies**
-* **Structure & Design:** HTML5, CSS3
-* **Utility CSS:** TailwindCSS
-
-**Databases & Data Management**
-* **Relational (SQL):** PostgreSQL, MySQL
-* **Non-Relational (NoSQL):** MongoDB
-
-**APIs, DevOps & Infrastructure**
-* **API Design & Documentation:** Swagger
-* **API Testing:** Postman
-* **Version Control:** Git
-* **Containerization:** Docker
-
-----
-
+```text
+├── java-ecosystem/
+│   ├── architecture/
+│   │   └── Microservices
+│   ├── build-tools/
+│   │   └── Maven
+│   ├── core-language/
+│   │   └── Java
+│   └── frameworks/
+│       ├── Hibernate
+│       └── SpringBoot
+│
+├── mern-stack/
+│   ├── backend/
+│   │   ├── Express.js
+│   │   └── Node.js
+│   ├── core-language/
+│   │   └── JavaScript (ES6+)
+│   ├── database/
+│   │   └── MongoDB
+│   └── frontend/
+│       └── React.js
+│
+├── python-ecosystem/
+│   ├── core-language/
+│   │   └── Python
+│   └── web-framework/
+│       └── Django
+│
+├── frontend-technologies/
+│   ├── styling/
+│   │   └── TailwindCSS
+│   └── structure-and-design/
+│       ├── CSS3
+│       └── HTML5
+│
+├── databases/
+│   ├── nosql/
+│   │   └── MongoDB
+│   └── sql/
+│       ├── MySQL
+│       └── PostgreSQL
+│
+└── devops-and-infrastructure/
+    ├── api-tools/
+    │   ├── Postman (Testing)
+    │   └── Swagger (Design & Docs)
+    ├── containerization/
+    │   └── Docker
+    └── version-control/
+        └── Git
+```        
+        
 ### 🚀 `deployments_&_projects`
 
 > **[Quora Site Using REST](https://github.com/Madhusudan023/Quora_Site_Using_REST)**
