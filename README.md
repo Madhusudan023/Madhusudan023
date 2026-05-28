@@ -123,40 +123,16 @@
         └── Git
 ```        
         
-### 🚀 `deployments_&_projects`
+### Deployments & Projects
 
-> **[Quora Site Using REST](https://github.com/Madhusudan023/Quora_Site_Using_REST)**
-> *A full-featured Quora-like application with RESTful API architecture.*
-> * **Stack:** `Node.js` `Express` `EJS` `REST API`
-> * **Links:** [Source Code](https://github.com/Madhusudan023/Quora_Site_Using_REST)
-
-> **[Currency Converter API](https://github.com/Madhusudan023/currency_converter-API-js)**
-> *Real-time currency conversion tool leveraging external API integration.*
-> * **Stack:** `JavaScript` `API Integration`
-> * **Links:** [Source Code](https://github.com/Madhusudan023/currency_converter-API-js)
-
-> **[Spotify Clone](https://github.com/Madhusudan023/Spotify_Clone)**
-> *Music streaming interface with responsive design and interactive features.*
-> * **Stack:** `HTML5` `CSS3` `JavaScript`
-> * **Links:** [Source Code](https://github.com/Madhusudan023/Spotify_Clone)
-
-> **[Plant Diseases Prediction](https://github.com/Madhusudan023/Plant_Diseases_Prediction)**
-> *Machine learning model for agricultural disease detection and classification.*
-> * **Stack:** `Python` `Jupyter Notebook` `ML`
-> * **Links:** [Source Code](https://github.com/Madhusudan023/Plant_Diseases_Prediction)
-
-> **[Mini Projects JavaScript](https://github.com/Madhusudan023/Mini_Projects_js)**
-> *Collection of interactive JavaScript projects demonstrating core web development concepts.*
-> * **Stack:** `JavaScript` `HTML5` `CSS3`
-> * **Links:** [Source Code](https://github.com/Madhusudan023/Mini_Projects_js)
-
-> **[My Portfolio](https://github.com/Madhusudan023/MyPortfolio_)**
-> *Personal portfolio website showcasing skills, projects, and professional background.*
-> * **Stack:** `HTML5` `CSS3` `JavaScript`
-> * **Links:** [Source Code](https://github.com/Madhusudan023/MyPortfolio_)
-
----
-
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **[Quora Site Using REST](https://github.com/Madhusudan023/Quora_Site_Using_REST)** | A full-featured Quora-like application with RESTful API architecture. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=json&logoColor=white) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/Quora_Site_Using_REST) |
+| **[Currency Converter API](https://github.com/Madhusudan023/currency_converter-API-js)** | Real-time currency conversion tool leveraging external API integration. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/API_Integration-005571?style=flat-square&logo=json&logoColor=white) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/currency_converter-API-js) |
+| **[Spotify Clone](https://github.com/Madhusudan023/Spotify_Clone)** | Music streaming interface with responsive design and interactive features. | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/Spotify_Clone) |
+| **[Plant Diseases Prediction](https://github.com/Madhusudan023/Plant_Diseases_Prediction)** | Machine learning model for agricultural disease detection and classification. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-5C5C5C?style=flat-square&logo=scikitlearn&logoColor=white) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/Plant_Diseases_Prediction) |
+| **[Mini Projects JavaScript](https://github.com/Madhusudan023/Mini_Projects_js)** | Collection of interactive JavaScript projects demonstrating core web development concepts. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/Mini_Projects_js) |
+| **[My Portfolio](https://github.com/Madhusudan023/MyPortfolio_)** | Personal portfolio website showcasing skills, projects, and professional background. | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/MyPortfolio_) |
 ### 📊 `system_telemetry`
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhusudan023&show_icons=true&theme=dark&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF&border_color=58A6FF)
