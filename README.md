@@ -1,6 +1,6 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_IMAGE_URL.png">
+  <source media="(prefers-color-scheme: dark)" srcset="![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Madhusudan%20Badgujar&fontSize=50&fontColor=58A6FF&desc=Associate%20Engineer%20@%20Virtusa&descSize=20&descAlignY=70&descAlign=50)">
   <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_IMAGE_URL.png">
   <img alt="Project Banner" src="YOUR_DEFAULT_IMAGE_URL.png">
 </picture>
