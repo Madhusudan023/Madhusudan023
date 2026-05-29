@@ -28,13 +28,7 @@
 ---
 
 
-<p align="left">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=2500&pause=1000&color=FFFFFF&left=true&vCenter=true&width=280&height=90&lines=whoami.json&background=121212"
-    alt="whoami.json"
-  />
-</p>
-
+<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=2500&pause=1000&color=121212&left=true&vCenter=true&width=380&height=70&lines=%3E+whoami.json" alt="whoami.json" /> </p>
 
 
 ```json
@@ -79,7 +73,7 @@
 }
 ```
 ---
-### `./experience.sh`
+<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=121212&left=true&vCenter=true&width=400&height=70&lines=%3E+./experience.sh" alt="experience.sh" /> </p>
 
 > **Associate Engineer** | *Virtusa* 
 > * **Scope:** Developing and maintaining scalable enterprise-grade applications.
@@ -107,8 +101,7 @@
 > * **Frontend Engineering:** Translated UI/UX design wireframes into actual code using HTML5, CSS3, and modern JavaScript.
 > * **Testing & Debugging:** Collaborated closely with senior developers to troubleshoot rendering issues and optimize web page load times.
 
-
-### 📂 `technical-arsenal/`
+<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=121212&left=true&vCenter=true&width=560&height=70&lines=%3E+technical-arsenal/" alt="technical-arsenal" /> </p>
 
 ```text
 ├── java-ecosystem/
@@ -163,7 +156,7 @@
         └── Git
 ```        
         
-### Deployments & Projects
+<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=121212&left=true&vCenter=true&width=560&height=70&lines=%3E+Deployments+%26+Projects" alt="Deployments & Projects" /> </p>
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
@@ -174,7 +167,7 @@
 | **[Mini Projects JavaScript](https://github.com/Madhusudan023/Mini_Projects_js)** | Collection of interactive JavaScript projects demonstrating core web development concepts. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/Mini_Projects_js) |
 | **[My Portfolio](https://github.com/Madhusudan023/MyPortfolio_)** | Personal portfolio website showcasing skills, projects, and professional background. | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhusudan023/MyPortfolio_) |
 
-### System Telemetry
+<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=121212&left=true&vCenter=true&width=480&height=70&lines=%3E+System+Telemetry" alt="System Telemetry" /> </p>
 
 | GitHub Overview | Language Arsenal |
 | :---: | :---: |
@@ -185,7 +178,7 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhusudan023&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=77909c" alt="GitHub Streak" />
 </div>
 
-### 📡 `ping_me`
+<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=121212&left=true&vCenter=true&width=300&height=70&lines=%3E+ping_me" alt="ping_me" /> </p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhusudan-badgujar)
