@@ -27,7 +27,15 @@
 
 ---
 
-### `whoami.json`
+
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=2500&pause=1000&color=FFFFFF&left=true&vCenter=true&width=280&height=90&lines=whoami.json&background=121212"
+    alt="whoami.json"
+  />
+</p>
+
+
 
 ```json
 {
