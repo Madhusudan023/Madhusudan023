@@ -1,9 +1,20 @@
+
+
+
 <div align="center">
 
-  <img alt="Project Banner" src="https://t3.ftcdn.net/jpg/03/16/91/28/240_F_316912806_RCeHVmUx5LuBMi7MKYTY5arkE4I0DcpU" width="800">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&background=121212&center=true&vCenter=true&width=800&lines=%3E_Hello+World%2C+I'm+Madhusudan+Badgujar;%3E_Associate+Engineer+%40+Virtusa;%3E_Full-Stack+Developer+%7C+Problem+Solver;%3E_Building+Scalable+Digital+Experiences..." alt="Animated Typing Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=260&section=header&text=Madhusudan%20Badgujar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Associate+Engineer+%40+Virtusa;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Applications"/> 
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,docker,git,postgres,python"/>
+
+
+  
   <p align="center">
     <b>Architecting elegant solutions from database to deployment.</b>
   </p>
