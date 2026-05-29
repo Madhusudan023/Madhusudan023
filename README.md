@@ -1,11 +1,11 @@
-<div align="center" >
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_IMAGE_URL.png">
   <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_IMAGE_URL.png">
   <img alt="Project Banner" src="YOUR_DEFAULT_IMAGE_URL.png">
 </picture>
 
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=%3E_Hello+World%2C+I'm+Madhusudan+Badgujar;%3E_Associate+Engineer+%40+Virtusa;%3E_Full-Stack+Developer+%7C+Problem+Solver;%3E_Building+Scalable+Digital+Experiences..." alt="Animated Typing Header" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&background=121212&center=true&vCenter=true&width=800&lines=%3E_Hello+World%2C+I'm+Madhusudan+Badgujar;%3E_Associate+Engineer+%40+Virtusa;%3E_Full-Stack+Developer+%7C+Problem+Solver;%3E_Building+Scalable+Digital+Experiences..." alt="Animated Typing Header" />
 
   <p align="center">
     <b>Architecting elegant solutions from database to deployment.</b>
