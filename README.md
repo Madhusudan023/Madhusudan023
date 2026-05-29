@@ -1,8 +1,10 @@
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Madhusudan%20Badgujar&fontSize=50&fontColor=58A6FF&desc=Associate%20Engineer%20@%20Virtusa&descSize=20&descAlignY=70&descAlign=50)">
-  <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_IMAGE_URL.png">
-  <img alt="Project Banner" src="YOUR_DEFAULT_IMAGE_URL.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Madhusudan%20Badgujar&fontSize=50&fontColor=58A6FF&desc=Associate%20Engineer%20@%20Virtusa&descSize=20&descAlignY=70&descAlign=50">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=F6F8FA&height=250&section=header&text=Madhusudan%20Badgujar&fontSize=50&fontColor=58A6FF&desc=Associate%20Engineer%20@%20Virtusa&descSize=20&descAlignY=70&descAlign=50">
+  
+  <img alt="Project Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Madhusudan%20Badgujar&fontSize=50&fontColor=58A6FF&desc=Associate%20Engineer%20@%20Virtusa&descSize=20&descAlignY=70&descAlign=50">
 </picture>
 
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=58A6FF&background=121212&center=true&vCenter=true&width=800&lines=%3E_Hello+World%2C+I'm+Madhusudan+Badgujar;%3E_Associate+Engineer+%40+Virtusa;%3E_Full-Stack+Developer+%7C+Problem+Solver;%3E_Building+Scalable+Digital+Experiences..." alt="Animated Typing Header" />
